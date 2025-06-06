@@ -24,5 +24,5 @@ However, for real-world simulations or extended testing, consider deploying on c
 
 1. Clone the repository:
    ```bash
-   git clone https://your-repo-url.git
-   cd mouse-stealer
+   git clone https://github.com/Mezzatu/mousestealer
+   cd mousestealer
