@@ -7,8 +7,7 @@
 
 ## Project Overview
 
-**Mouse Stealer** is a proof-of-concept webstealer tool designed for educational purposes only.  
-Its purpose is to demonstrate how attackers might steal important user information from unsuspecting victims via malicious web scripts.
+**Mouse Stealer** is a  webstealer tool designed for stealing important infomation from vicims. 
 
 This repository **strictly forbids** any illegal activities or use without explicit permission from the target.  
 
